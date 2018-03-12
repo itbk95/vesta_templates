@@ -7,9 +7,8 @@ Work with vesta 0.9.8
 
 ### Templates list
 
+* Laravel 5.6
 * Drupal 7
-* Redmine
-* Laravel 5.1
 
 ### Installation
 To install thoose templates just:
