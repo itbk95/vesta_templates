@@ -9,8 +9,10 @@ Follow this tutorial:
 ```sh
 cd /usr/local/vesta/data/templates/web
 git clone https://github.com/BuiHuyCuong/vesta_templates.git
-cp -R vesta_templates/apache2 .
-cp -R vesta_templates/nginx .
-cp vesta_templates/httpd/. httpd/
+# Copy
+cp -a vesta_templates/nginx . nginx/
+cp -a vesta_templates/httpd/. httpd/
+cp -a vesta_templates/apache2 . apache2/
+# Remove template
 rm -rf vesta_templates
 ```
