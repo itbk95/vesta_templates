@@ -1,8 +1,8 @@
 ### Templates list
 
-* Laravel 5.6
+* Laravel 5.*
 * Drupal 7
-
+* Vue 2.*
 ### Installation
 Follow this tutorial:
 
